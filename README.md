@@ -90,7 +90,7 @@ Predicted Price = Latest Price + Calculated Slope
 - Constructors
 - Encapsulation through class-based data organization
 - Static variables and methods
-- ArrayList and Collections
+- ArrayList 
 - Scanner for user input
 - Methods and modular programming
 - For loops and do-while loops
@@ -115,12 +115,12 @@ git clone https://github.com/surendra-3112/Java-Programs.git
 
 ### Step 2: Open the project folder
 
-Navigate to the directory containing `Stock_Price_Predictor.java`.
+Navigate to the directory containing `stockpricepredictor.java`.
 
 ### Step 3: Compile the program
 
 ```bash
-javac Stock_Price_Predictor.java
+javac stockpricepredictor.java
 ```
 
 ### Step 4: Run the program
